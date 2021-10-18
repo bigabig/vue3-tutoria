@@ -18,7 +18,8 @@
 	"extensions": [
 		"dbaeumer.vscode-eslint",
 		"octref.vetur",
-		"sdras.vue-vscode-snippets"
+		"sdras.vue-vscode-snippets",
+		"esbenp.prettier-vscode"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
